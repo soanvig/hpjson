@@ -375,6 +375,251 @@
             "health": "7",
             "rarity": "Foil Premium",
             "artist": ""
+        },
+        {
+            "number": "31",
+            "name": "5 Points from Gryffindor",
+            "type": "Adventure",
+            "description": {
+                "note": "Play this card only if you have at least 5 Lessons in play.",
+                "effect": "Your opponent gets 1 fewer Action on each of his or her turns (even the turn this Adventure is solved). (If this would mean your opponent would have fewer than 1 Action, he or she still gets 1 Action.)",
+                "toSolve": "Your opponent chooses 5 cards from his or her hand and discards them.",
+                "reward": "You take 5 damage."
+            },
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "32",
+            "name": "Alohomora",
+            "lesson": "Charms",
+            "cost": "4",
+            "type": "Spell",
+            "description": "Search your deck. You may take a Location of Adventure card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "33",
+            "name": "Baneberry Potion",
+            "lesson": "Potions",
+            "cost": "3",
+            "type": "Spell",
+            "description": "To play this card, discard 2 of your Potions Lessons from play. Do 8 damage to your opponent or to a Creature of your choice.",
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "34",
+            "name": "Bludger Bop",
+            "lesson": "Quidditch",
+            "cost": "6",
+            "type": "Spell",
+            "description": "Your opponent chooses 1 of his or her cards in play (other than his or her starting Character) and discards it. Then, if he or she has any cards in his or her hand, he or she chooses 1 of them and discards it.",
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "35",
+            "name": "Candy Cart",
+            "type": "Adventure",
+            "description": {
+                "note": "Play this card only if you have at least 3 Lessons in play.",
+                "effect": "Before each of your opponent's turns, he or she draws 3 cards and then chooses 3 cards in his or her hand and discards them.",
+                "toSolve": "Your opponent takes 10 damage.",
+                "reward": "Your opponent may draw a card."
+            },
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "36",
+            "name": "Collapsible Cauldron",
+            "lesson": "Potions",
+            "cost": "6",
+            "type": "Item",
+            "subTypes": [
+                "Cauldron"
+            ],
+            "provides": [
+                "3",
+                "Potions"
+            ],
+            "description": "To play this card, discard 1 of your Potions Lessons from play. If this card is discarded from play, put it into your hand.",
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "37",
+            "name": "Flying Motorbike",
+            "lesson": "Transfiguration",
+            "cost": "3",
+            "type": "Spell",
+            "description": "Choose an Adventure or Location in play and discard it. (If you discard an Adventure, you don't get the reward.)",
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "38",
+            "name": "Flying Practice",
+            "type": "Adventure",
+            "description": {
+                "effect": "Spell cards that need Quidditch Power use up 2 of your opponent's Actions instead of 1.",
+                "toSolve": "Your opponent discards 4 cards that need Quidditch Power from his or her hand.",
+                "reward": "You take 2 damage."
+            },
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "39",
+            "name": "Forbidden Corridor",
+            "lesson": "Transfiguration",
+            "cost": "3",
+            "type": "Location",
+            "subTypes": [
+                "Unique"
+            ],
+            "description": "When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, he or she chooses 1 of his or her cards in play (other than his or her starting Character) and discards it. At the end of each player's turn, if he or she has no Lessons in play, discard this card.",
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "40",
+            "name": "Giant Squid",
+            "lesson": "Care of Magical Creatures",
+            "cost": "10",
+            "type": "Creature",
+            "subTypes": [
+                "Squid"
+            ],
+            "description": "",
+            "dmgEachTurn": "5",
+            "health": "10",
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "41",
+            "name": "Looking for Trevor",
+            "type": "Adventure",
+            "description": {
+                "effect": "Your opponent can't use Actions to play Creature cards.",
+                "toSolve": "Your opponent chooses 2 of his or her Lessons in play and discards them.",
+                "reward": "Your opponent may search his or her deck. He or she may take a Creature card, show it to you, and put it into his or her hand. Then your opponent shuffles his or her deck."
+            },
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "42",
+            "name": "Marble Gargoyle",
+            "lesson": "Care of Magical Creatures",
+            "cost": "5",
+            "type": "Creature",
+            "subTypes": [
+                "Gargoyle"
+            ],
+            "description": "When Marble Gargoyle does damage to your opponent, if he or she doesn't have any Creatures in play, it does 3 more damage to him or her.",
+            "dmgEachTurn": "2",
+            "health": "3",
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "43",
+            "name": "Muddy Practice",
+            "lesson": "Quidditch",
+            "cost": "1",
+            "type": "Match",
+            "description": {
+                "note": "Either player may use an Action to discard a card from his or her hand.",
+                "toWin": "Discard 5 cards from your hand in this way.",
+                "prize": "The winner does 10 damage to his or her opponent."
+            },
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "44",
+            "name": "Purple Firecrackers",
+            "lesson": "Transfiguration",
+            "cost": "6",
+            "type": "Spell",
+            "description": "Your opponent chooses 3 cards in his or her hand and discards them. (If he or she has fewer than 3 cards in his or her hand, he or she discards them all.)",
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "45",
+            "name": "Running from Filch",
+            "type": "Adventure",
+            "description": {
+                "note": "Play this card only if you have at least 6 Lessons in play.",
+                "effect": "Your opponent can't use Actions to play Lesson cards.",
+                "toSolve": "Your opponent discards his or her hand.",
+                "reward": "Your opponent may draw 3 cards."
+            },
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "46",
+            "name": "Sickle",
+            "lesson": "Charms",
+            "cost": "7",
+            "type": "Item",
+            "subTypes": [
+                "Money"
+            ],
+            "description": "You can play only 1 Money card each turn. Before your turn, if this card is in play, discard it and your get 2 more Actions this turn.",
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "47",
+            "name": "Star Grass Salve",
+            "lesson": "Potions",
+            "cost": "8",
+            "type": "Spell",
+            "subTypes": [
+                "Healing"
+            ],
+            "description": "To play this card, discard one of your Potions Lessons from play. Shuffle up to 11 non-Healing cards from your discard pile into your deck.",
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "48",
+            "name": "Through the Trapdoor",
+            "type": "Adventure",
+            "description": {
+                "effect": "Your opponent discards the card drawn at the start of each of his or her turns.",
+                "toSolve": "The card drawn and discarded at the start of your opponent's turn is a Lesson card.",
+                "reward": "You take 1 damage."
+            },
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "49",
+            "name": "Winter Holiday",
+            "lesson": "Transfiguration",
+            "cost": "9",
+            "type": "Spell",
+            "description": "Your opponent chooses 3 of his or her Lessons in play and discards them. Then you choose 3 of your Lessons in play and discard them. (If either of you has fewer than 3 Lessons in play, that player discards them all.)",
+            "rarity": "Uncommon",
+            "artist": ""
+        },
+        {
+            "number": "50",
+            "name": "Wooden Flute",
+            "lesson": "Care of Magical Creatures",
+            "cost": "8",
+            "type": "Spell",
+            "description": "Choose up to 3 Creatures in play and return them to their owner's hands.",
+            "rarity": "Uncommon",
+            "artist": ""
         }
     ]
 }
