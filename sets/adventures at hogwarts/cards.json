@@ -1,6 +1,6 @@
 {
-    "setName": "Diagon Alley",
-    "releaseDate": "03-2002",
+    "setName": "Adventures at Hogwart",
+    "releaseDate": "06-2002",
     "totalCards": "80",
     "cards": [
         {
@@ -620,6 +620,347 @@
             "description": "Choose up to 3 Creatures in play and return them to their owner's hands.",
             "rarity": "Uncommon",
             "artist": ""
-        }
+        },
+        {
+            "number": "51",
+            "name": "Anti-Cheating Spell",
+            "lesson": "Charms",
+            "cost": "3",
+            "type": "Spell",
+            "description": "Look at your opponent's hand. If there are any Lessons there, choose 1 of them and discard it.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "52",
+            "name": "Bewitched Snowballs",
+            "lesson": "Charms",
+            "cost": "5",
+            "type": "Spell",
+            "description": "Do 3 damage to your opponent or to a Creature of your choice. Then draw a card.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "53",
+            "name": "Black Bat",
+            "lesson": "Care of Magical Creatures",
+            "cost": "4",
+            "type": "Creature",
+            "subTypes": [
+                "Bat"
+            ],
+            "description": "When you play this card, do 2 damage to your opponent.",
+            "dmgEachTurn": "2",
+            "health": "1",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "54",
+            "name": "Bucking Broomstick",
+            "lesson": "Quidditch",
+            "cost": "7",
+            "type": "Spell",
+            "description": "Do 3 damage to your opponent. Then, if your opponent has any cards in his or her hand, he or she chooses 2 of them and discards them (1 if he or she only has 1).",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "55",
+            "name": "Cauldron Cakes",
+            "lesson": "Potions",
+            "cost": "1",
+            "type": "Spell",
+            "subTypes": [
+                "Healing",
+                "Candy"
+            ],
+            "description": "Choose up to 2 non-Healing cards from your discard pile and put them on the bottom of your deck (in any order). When draw a card. (Cauldron Cakes isn't really a Cauldron.)",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "56",
+            "name": "Charms Accident",
+            "lesson": "Charms",
+            "cost": "1",
+            "type": "Spell",
+            "description": "Do 2 damage to your opponent. You may also choose a non-Healing Item in play and return it to its owner's hand.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "57",
+            "name": "Chimaera",
+            "lesson": "Care of Magical Creatures",
+            "cost": "7",
+            "type": "Creature",
+            "subTypes": [
+                "Chimaera"
+            ],
+            "description": "When you play this card, do 2 damage to your opponent.",
+            "dmgEachTurn": "4",
+            "health": "2",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "58",
+            "name": "Dog Bite",
+            "lesson": "Care of Magical Creatures",
+            "cost": "4",
+            "type": "Spell",
+            "description": "Choose a Creature in play. That Creature does damage to your opponent equal to that Creature's printed 'Damage each turn.'",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "59",
+            "name": "Every-Flavour Beans",
+            "lesson": "Transfiguration",
+            "cost": "1",
+            "type": "Spell",
+            "subTypes": [
+                "Candy"
+            ],
+            "description": "Reveal the top 2 card of your deck. Put into play any Lesson cards you revealed. Put into your discard pile any non-Lesson cards you revealed. Then draw a card.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "60",
+            "name": "Fire Protection Potion",
+            "lesson": "Potions",
+            "cost": "3",
+            "type": "Spell",
+            "description": "Do 3 damage to your opponent. During your opponent's next turn, prevent all damage done to you by Spell cards.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "61",
+            "name": "Fungiface Potion",
+            "lesson": "Potions",
+            "cost": "4",
+            "type": "Spell",
+            "description": "To play this card, discard 1 of your P Lessons from play. Do 6 damage to your opponent or to a Creature of your choice.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "62",
+            "name": "Knut",
+            "lesson": "Charms",
+            "cost": "1",
+            "type": "Item",
+            "subTypes": [
+                "Money"
+            ],
+            "description": "You can play only 1 Money card each turn. Before your turn, if this card is in play, discard it and you get 1 more Action this turn.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "63",
+            "name": "Liquorice Wand",
+            "lesson": "Charms",
+            "cost": "1",
+            "type": "Spell",
+            "subTypes": [
+                "Candy"
+            ],
+            "description": "Do 2 damage to your opponent. Then draw a card. (Liquorice Wand isn't really a Wand.)",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "64",
+            "name": "Loop-the-Loops",
+            "lesson": "Quidditch",
+            "cost": "8",
+            "type": "Spell",
+            "description": "Do 4 damage to your opponent. Then draw 4 cards.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "65",
+            "name": "Manegro Potion",
+            "lesson": "Potions",
+            "cost": "6",
+            "type": "Spell",
+            "description": "Count the number of P Lessons you have in play. Do that much damage to your opponent. Then choose 1 of your P Lessons in play and discard it.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "66",
+            "name": "Muffling Draught",
+            "lesson": "Potions",
+            "cost": "3",
+            "type": "Spell",
+            "description": "During your opponent's next turn, he or she can't use Actions to play Spell cards.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "67",
+            "name": "Owl Post",
+            "lesson": "Care of Magical Creatures",
+            "cost": "6",
+            "type": "Spell",
+            "description": "Draw 3 cards.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "68",
+            "name": "Photo Album",
+            "lesson": "Charms",
+            "cost": "5",
+            "type": "Spell",
+            "description": "Before each of your turns, draw a card.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "69",
+            "name": "Sandstone Gargoyle",
+            "lesson": "Care of Magical Creatures",
+            "cost": "3",
+            "type": "Creature",
+            "subTypes": [
+                "Gargoyle"
+            ],
+            "description": "When Sandstone Gargoyle does damage to your opponent, if he or she doesn't have any Creatures in play, it does 2 more damage to him or her.",
+            "dmgEachTurn": "1",
+            "health": "2",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "70",
+            "name": "School Broom",
+            "lesson": "Quidditch",
+            "cost": "4",
+            "type": "Item",
+            "subTypes": [
+                "Broom"
+            ],
+            "description": "When you play this card, draw a card. If you play this card, and you already have a Broom in play, discard the old one.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "71",
+            "name": "Scribblifors",
+            "lesson": "Transfiguration",
+            "cost": "7",
+            "type": "Spell",
+            "description": "Choose 2 of your opponent's cards in play (other than his or her starting Character). Your opponent discards one of them and returns the other to his or her hand.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "72",
+            "name": "Sleeping Potion",
+            "lesson": "Potions",
+            "cost": "4",
+            "type": "Spell",
+            "description": "Do 4 damage to your opponent. During your opponent's next turn, he or she can't use Actions to play Adventure cards.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "73",
+            "name": "Switching Spell",
+            "lesson": "Transfiguration",
+            "cost": "4",
+            "type": "Spell",
+            "description": "Choose an Item in play (yours or your opponent's) and discard it. Then search your deck. You may take an Item card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "74",
+            "name": "Troll Bogies",
+            "lesson": "Care of Magical Creatures",
+            "cost": "3",
+            "type": "Spell",
+            "description": "Choose a non-Healing Item in play and return it to its owner's hand.",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+            "number": "75",
+            "name": "Vanishing Step",
+            "lesson": "Transfiguration",
+            "cost": "1",
+            "type": "Spell",
+            "description": "During your opponent's next turn, he or she gets 1 fewer Action. (If this would mean your opponent has fewer than 1 Action, he or she still gets 1 Action.)",
+            "rarity": "Common",
+            "artist": ""
+        },
+        {
+			"number": "76",
+			"name": "Care of Magical Creatures",
+			"lesson": "Care of Magical Creatures",
+			"type": "Lesson",
+			"provides": [
+				"1",
+				"Care of Magical Creatures"
+			],
+			"rarity": "Common",
+			"artist": ""
+		},
+		{
+			"number": "77",
+			"name": "Charms",
+			"lesson": "Charms",
+			"type": "Lesson",
+			"provides": [
+				"1",
+				"Charms"
+			],
+			"rarity": "Common",
+			"artist": ""
+		},
+		{
+			"number": "78",
+			"name": "Potions",
+			"lesson": "Potions",
+			"type": "Lesson",
+			"provides": [
+				"1",
+				"Potions"
+			],
+			"rarity": "Common",
+			"artist": ""
+		},
+		{
+			"number": "79",
+			"name": "Quidditch",
+			"lesson": "Quidditch",
+			"type": "Lesson",
+			"provides": [
+				"1",
+				"Quidditch"
+			],
+			"rarity": "Common",
+			"artist": ""
+		},
+		{
+			"number": "80",
+			"name": "Transfiguration",
+			"lesson": "Transfiguration",
+			"type": "Lesson",
+			"provides": [
+				"1",
+				"Transfiguration"
+			],
+			"rarity": "Common",
+			"artist": ""
+		}
     ]
 }
